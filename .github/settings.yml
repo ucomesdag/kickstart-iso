@@ -1,0 +1,5 @@
+---
+repository:
+  description: Script to creation a custom bootable ISO image for automated installation using a kickstart configuration file.
+  homepage: https://mesd.ag/
+  topics: kickstart, preseed, iso

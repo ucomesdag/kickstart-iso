@@ -1,3 +1,4 @@
 *.iso
-.vagrant
 *.cfg
+!kickstart.cfg
+!preseed.cfg
